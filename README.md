@@ -1,6 +1,6 @@
 # Project 7: Acama AI Virtual Assistant
 
-Similar to Siri, Google assistant and Alexa, I created "Acama" virtual assistant using Python in order to show people that you can create your own VA instead of buying it.
+Similar to Siri, Google assistant and Alexa, I created "Acama" virtual assistant in order to show people that you can even create your own VA instead of buying it with simple coding in Python.
 
 For windows users
 (run those in command terminal of VS Code) 
