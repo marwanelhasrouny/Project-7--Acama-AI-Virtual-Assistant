@@ -50,7 +50,7 @@ def run_acama():
         talk('sorry, I have a headache')
     elif 'are you single' in command:
         talk('I am in a relationship with wifi')
-    elif 'fuck you' in command:
+    elif 'damn!' in command:
         talk('Hey!mind your language please!')
     elif 'sorry' in command:
         talk('It is okay! apology accepted')
